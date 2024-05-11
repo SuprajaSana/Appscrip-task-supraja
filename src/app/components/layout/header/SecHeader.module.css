@@ -1,0 +1,178 @@
+.header {
+  width: 1550px;
+  height: 188px;
+  border: 0px 0px 1px 0px;
+  background-color: rgba(255, 255, 255, 1);
+  border-bottom: 1px solid rgba(229, 229, 229, 1);
+}
+.text {
+  width: 107px;
+  height: 44px;
+  margin-top: 36px;
+  margin-left: 535px;
+  font-family: Inter;
+  font-size: 36px;
+  font-weight: 800;
+  line-height: 43.57px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.icons2 {
+  width: Hug (244px) px;
+  height: Hug (24px) px;
+  margin-top: 46px;
+  margin-left: 326px;
+  gap: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.icons2main {
+  width: 24px;
+  height: 24px;
+}
+.icons2languge {
+  width: Hug (52px) px;
+  height: Hug (16px) px;
+  gap: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.eng {
+  width: 31px;
+  height: 11px;
+  font-family: Simplon Norm;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 19.2px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.downarrow {
+  width: 16px;
+  height: 16px;
+  rotate: 90 deg;
+  margin-top: 2px;
+  margin-left: 9px;
+}
+.tabs {
+  width: Hug(700px) px;
+  height: Hug (24px) px;
+  margin-top: 60px;
+  margin-left: 402px;
+  gap: 64px;
+  display: flex;
+  flex-direction: row;
+}
+.logo {
+  width: 36px;
+  height: 36px;
+  margin-top: 40px;
+  margin-left: 150px;
+  padding: 0px 0.39px 0.34px 0px;
+  border: 2px solid black;
+}
+.logomain {
+  width: 35.61px;
+  height: 35.66px;
+  color: rgba(0, 0, 0, 1);
+}
+.contents {
+  display: flex;
+  flex-direction: row;
+}
+.tab1 {
+  width: 52px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.tab2 {
+  width: 65px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.tab3 {
+  width: 79px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.tab4 {
+  width: 65px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.tab5 {
+  width: 170px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.text1 {
+  width: 52px;
+  height: 24px;
+  font-family: Simplon Norm;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.text2 {
+  width: 65px;
+  height: 24px;
+  font-family: Simplon Norm;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.text3 {
+  width: 79px;
+  height: 24px;
+  font-family: Simplon Norm;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.text4 {
+  width: 65px;
+  height: 24px;
+  font-family: Simplon Norm;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.text5 {
+  width: 170px;
+  height: 24px;
+  font-family: Simplon Norm;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.line {
+  width: 1px;
+  height: 0px;
+  margin-top: 24px;
+  border: 1px 0px 0px 0px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}

@@ -1,0 +1,29 @@
+.products {
+  width: 932px;
+  height: 2932px;
+  margin-top: 32px;
+  margin-left: 16px;
+}
+.heading {
+  width: 130px;
+  height: 40px;
+  margin-top: 32px;
+  margin-left: 16px;
+  color: rgba(0, 0, 0, 1);
+}
+.headingtext {
+  width: 90px;
+  height: 40px;
+  margin-top: 32px;
+  margin-left: 20px;
+  font-family: Simplon Norm;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 40px;
+  text-align: left;
+}
+.productstext {
+  color: lightslategray;
+  text-align: center;
+  margin-top: 200px;
+}

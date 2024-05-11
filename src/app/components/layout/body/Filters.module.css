@@ -1,0 +1,147 @@
+.filters {
+  width: Fixed (300px) px;
+  height: Hug (846px) px;
+  margin-top: 32px;
+  margin-left: 0px;
+  gap: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.customizable {
+  width: Fill (300px) px;
+  height: Hug (22px) px;
+  gap: 24px;
+  display: flex;
+  flex-direction: row;
+}
+.separator {
+  width: 300px;
+  height: 0px;
+  border: 1px 0px 0px 0px;
+  border: 1px solid rgba(229, 229, 229, 1);
+}
+.customizablemain {
+  width: 300px;
+  height: 22px;
+  gap: 8px;
+  margin-top: 4px;
+  display: flex;
+  flex-direction: row;
+}
+.customizablecheckbox {
+  width: 22px;
+  height: 22px;
+  border: 0.92px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 0.92px solid rgba(77, 77, 77, 1);
+}
+.customizabletext {
+  width: 270px;
+  height: 16px;
+  margin-left: 8px;
+}
+.filter {
+  width: Fill (300px) px;
+  height: Hug (52px) px;
+  gap: 8px;
+}
+.title {
+  width: Fill (300px) px;
+  height: Hug (52px) px;
+  gap: 8px;
+  display: flex;
+  flex-direction: column;
+}
+.titlename {
+  width: Fill (300px) px;
+  height: Hug (22px) px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.all {
+  width: 300px;
+  height: 22px;
+  font-family: Simplon Norm;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.6px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.titlehead {
+  width: 180px;
+  height: 22px;
+  font-family: Simplon Norm;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21.6px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
+.downarrow {
+  width: 16px;
+  height: 16px;
+  rotate: 90 deg;
+}
+.downarrowmain {
+  width: 16px;
+  height: 16px;
+  margin-top: 16px;
+  rotate: 90 deg;
+}
+.rectarrow {
+  width: 16px;
+  height: 16px;
+  margin-top: -0px;
+  rotate: -90 deg;
+}
+.triarrow {
+  width: 4.73px;
+  height: 10.56px;
+  margin-top: 10.73px;
+  border: 1px 0px 0px 0px;
+  rotate: 90 deg;
+}
+.filtervalues {
+  width: Fill (300px) px;
+  height: Hug (148px) px;
+  margin-top: 24px;
+  gap: 24px;
+  display: flex;
+  flex-direction: column;
+}
+.filtervaluetext {
+  width: 300px;
+  height: 19px;
+  font-family: Simplon Norm;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  text-align: left;
+  color: rgba(191, 200, 205, 1);
+}
+.filtervaluename {
+  width: Fill (300px) px;
+  height: Hug (19px) px;
+  gap: 8px;
+  display: flex;
+  flex-direction: row;
+}
+.filtervalueinput {
+  width: 18px;
+  height: 18px;
+  border: 0.75px 0px 0px 0px;
+  border: 0.75px solid rgba(77, 77, 77, 1);
+  background-color: rgba(255, 255, 255, 1);
+}
+.filtervaluespan {
+  width: 100px;
+  height: 19px;
+  font-family: Simplon Norm;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19.2px;
+  text-align: left;
+  color: rgba(37, 32, 32, 1);
+}
